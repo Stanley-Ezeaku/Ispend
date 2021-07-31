@@ -1,0 +1,23 @@
+{
+    "name": "ispend",
+    "short_name": "ispend",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Personal expenses App that let you keep track of your daily, weekly expenditure, etc. This App will be very helpful in shopping malls to keep track item with prices in your shopping cart, letting you make a quick good decision on item to buy base on important and budget.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
